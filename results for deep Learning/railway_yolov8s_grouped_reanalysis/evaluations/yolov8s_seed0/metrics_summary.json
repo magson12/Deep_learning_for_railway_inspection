@@ -1,0 +1,31 @@
+{
+  "seed": 0,
+  "checkpoint": "/kaggle/working/railway_yolov8s_grouped_reanalysis/runs/yolov8s_seed0/weights/best.pt",
+  "evaluation_split": "frozen grouped test set",
+  "precision": 0.9202623862031172,
+  "recall": 0.9677488874270486,
+  "mAP50": 0.9336307721229506,
+  "mAP50_95": 0.8922973970040651,
+  "class_indices": [
+    0,
+    1
+  ],
+  "per_class_mAP50_95": [
+    0.8014117348672574,
+    0.9831830591408725
+  ],
+  "per_class_metrics": {
+    "defective": {
+      "precision": 0.8479821912585036,
+      "recall": 0.9413265306122449,
+      "AP50": 0.8756831938967846,
+      "AP50_95": 0.8014117348672574
+    },
+    "non-defective": {
+      "precision": 0.9925425811477308,
+      "recall": 0.9941712442418521,
+      "AP50": 0.9915783503491166,
+      "AP50_95": 0.9831830591408725
+    }
+  }
+}

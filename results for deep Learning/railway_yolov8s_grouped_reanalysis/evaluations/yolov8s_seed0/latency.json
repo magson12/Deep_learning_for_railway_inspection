@@ -1,0 +1,10 @@
+{
+  "seed": 0,
+  "n_test_images": 200,
+  "warmup_images": 20,
+  "median_ms_per_image": 13.258195000162232,
+  "mean_ms_per_image": 17.706866229891602,
+  "p25_ms_per_image": 12.856374751208932,
+  "p75_ms_per_image": 13.939821248641238,
+  "definition": "YOLO model-call time: preprocessing, inference, and postprocessing; excludes capture, transfer, alerts, and human review."
+}

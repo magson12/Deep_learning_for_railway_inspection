@@ -1,0 +1,4 @@
+split,images,families,defective_objects,non_defective_objects,objects
+test,1820,1363,784,1071,1855
+train,14490,10901,6332,8358,14690
+val,1764,1362,767,1035,1802

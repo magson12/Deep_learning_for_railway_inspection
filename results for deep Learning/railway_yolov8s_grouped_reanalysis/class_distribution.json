@@ -1,0 +1,25 @@
+{
+  "images_with_any_defective_object": 7761,
+  "images_with_any_non_defective_object": 10464,
+  "images_with_both_classes": 151,
+  "total_defective_objects": 7883,
+  "total_non_defective_objects": 10464,
+  "total_objects": 18347,
+  "per_split": {
+    "test": {
+      "images": 1820,
+      "defective_objects": 784,
+      "non_defective_objects": 1071
+    },
+    "train": {
+      "images": 14490,
+      "defective_objects": 6332,
+      "non_defective_objects": 8358
+    },
+    "val": {
+      "images": 1764,
+      "defective_objects": 767,
+      "non_defective_objects": 1035
+    }
+  }
+}

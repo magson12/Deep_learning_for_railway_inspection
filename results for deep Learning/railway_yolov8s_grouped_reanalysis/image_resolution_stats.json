@@ -1,0 +1,17 @@
+{
+  "n_images_measured": 18074,
+  "n_unreadable": 0,
+  "width_px": {
+    "min": 416,
+    "max": 4000,
+    "mean": 607.41,
+    "std": 802.11
+  },
+  "height_px": {
+    "min": 416,
+    "max": 4000,
+    "mean": 558.0,
+    "std": 595.9
+  },
+  "unique_resolutions": 3
+}

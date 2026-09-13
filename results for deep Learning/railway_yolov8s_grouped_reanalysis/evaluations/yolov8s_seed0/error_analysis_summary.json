@@ -1,0 +1,11 @@
+{
+  "seed": 0,
+  "locked_confidence": 0.25,
+  "iou_match_threshold": 0.5,
+  "n_test_images": 1820,
+  "images_with_any_error": 155,
+  "total_false_negatives": 21,
+  "total_false_positives": 474,
+  "overlay_images_saved": 40,
+  "overlay_legend": "GT boxes: red=missed (false negative), green=matched. Predicted boxes: blue=extra (false positive), yellow=matched."
+}
